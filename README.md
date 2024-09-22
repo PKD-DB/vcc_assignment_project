@@ -16,10 +16,15 @@ Improve product recommendations
 The general workflow for the project is as follows:
 
 Data Collection: Collect customer data from internal databases or external sources.
+
 Data Preprocessing: Clean and prepare the data (handling missing values, scaling, etc.).
+
 Exploratory Data Analysis (EDA): Visualize and understand the key patterns in the data.
+
 Clustering: Apply clustering algorithm **K-Means** to group similar customers.
+
 Evaluation: Use evaluation metrics like the silhouette score and elbow method to assess the quality of the clusters.
+
 Reporting: Summarize findings and visualizations into a report that highlights insights and actionable recommendations.
 
 **Technologies Used**
@@ -52,4 +57,4 @@ This model deployed on app engine on GCP
 
 End point to access the app running on GCP.
 
-https://customersegmentation-435711.dt.r.appspot.com/
+https://vcc-assignment-g23ai2014.as.r.appspot.com/
